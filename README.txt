@@ -18,8 +18,7 @@ E) Scalable Design: Supports real-time emotion tracking for clinical, entertainm
 
 Technology Stack:
 Data & ML: Python, Scikit-learn, Pandas, XGBoost
-Visualization: Seaborn, Matplotlib, Power BI
-Frontend: Flutter
+Visualization: Seaborn, Matplotlib,
 Backend: Django API + Firebase
 Hardware: Empatica EmbracePlus (HRV wrist sensor)
 
